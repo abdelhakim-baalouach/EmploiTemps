@@ -1,0 +1,2 @@
+# EmploiTemps
+La gestion d’emplois du temps met en relation différents ressources : les enseignants, les salles, la durée, le jour, les cours, les matières, le semestre, la filière, et les semaines. L’objectif est d’affecter des enseignements à un enseignant, pour une matière situer dans une filière, enseigner dans un type de salle ( TP, TD, Amphi, cour….) pour une durée pendant la journée, et un nombre précis de semaine durant un semestre, sans qu’il y ait des conflits.
